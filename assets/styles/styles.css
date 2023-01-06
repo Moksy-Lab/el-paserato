@@ -22,6 +22,14 @@
     --cullen-background-image : url()
 
 } 
+/* #henry(d7bc5634ff5c3145) #css starts  */
+.headerd7bc5634ff5c3145 .heading a:hover {
+    background: linear-gradient(to left, #f69ec4, #f9dd94 100%);
+    background-position: 0 100%;
+    background-size: 100% 1px;
+    background-repeat: repeat-x;
+}
+/* #henry(d7bc5634ff5c3145) #css ends  */
 /* #handu(d968f923c99adba9) #css starts  */
 .headerd968f923c99adba9 .header {
   position: relative;
